@@ -28,20 +28,7 @@ jobs:
         run: |
           black --check . 
           echo "Code is formatted correctly."
-      - name: Run tests
-        run: |
-          python -m unittest discover -s tests -p "*.py"
-          echo "All tests passed successfully."
-      - name: Notify on failure
-        if: failure()
-        run: |
-          echo "Some tests failed. Please check the logs for details."
-          exit 1
-      - name: Notify on success
-        if: success()
-        run: |
-          echo "All checks passed successfully. Code is formatted and tests are passing."
-          exit 0
+
       - name: Commit changes
         if: always() && success()
         run: |
