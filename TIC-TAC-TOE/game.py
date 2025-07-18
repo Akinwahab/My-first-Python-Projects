@@ -155,7 +155,7 @@ if __name__ == "__main__":
     print("2 - Human vs Human 👥")
     print("3 - Human vs Genius AI 🧠")
 
-    mode = input("Enter 1, 2 and 3: ").strip()
+    mode = input("Enter 1, 2 or 3: ").strip()
 
     if mode == "1":
         x_player = Human_Player("X")
@@ -169,5 +169,4 @@ if __name__ == "__main__":
         run_game(x_player, o_player)
     else:
         print(Fore.RED + "Invalid input. Please restart and try again.")
-
-
+        exit(1)
