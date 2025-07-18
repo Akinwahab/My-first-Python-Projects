@@ -22,7 +22,7 @@ jobs:
 
       - name: Run black to check formatting
         run: |
-          black
+          black .
 
       - name: Run Python files to ensure they work
         run: |
