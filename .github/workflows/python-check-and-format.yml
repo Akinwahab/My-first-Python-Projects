@@ -20,13 +20,30 @@ jobs:
           python -m pip install --upgrade pip
           pip install black
 
-      - name: Run black to check formatting
+      - name: Run black to format code
         run: |
           black .
 
-      - name: Run Python files to ensure they work
+      - name: Check code formatting
         run: |
-          for file in *.py; do
-            echo "Running $file"
-            python "$file"
-          done
+          black --check . 
+          echo "Code is formatted correctly."
+      - name: Run tests
+        run: |
+          python -m unittest discover -s tests -p "*.py"
+          echo "All tests passed successfully."
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "Some tests failed. Please check the logs for details."
+          exit 1
+      - name: Notify on success
+        if: success()
+        run: |
+          echo "All checks passed successfully. Code is formatted and tests are passing."
+          exit 0
+      - name: Commit changes
+        if: always() && success()
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "
