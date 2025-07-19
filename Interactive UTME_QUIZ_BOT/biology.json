@@ -1,0 +1,211 @@
+{
+  "questions": [
+    {
+      "question": "A plant which grows on another plant without apparent harm to the host plant is called",
+      "options": ["a parasite", "an epiphyte", "a saprophyte", "a predator"],
+      "correct_answer": "an epiphyte"
+    },
+    {
+      "question": "The process represented by 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ under sunlight & chlorophyll is:",
+      "options": ["proteinsynthesis", "respiration", "photosynthesis", "transpiration"],
+      "correct_answer": "photosynthesis"
+    },
+    {
+      "question": "One function of xylem is:",
+      "options": ["strengthening the stem", "manufacturing food", "reducing loss of water", "conducting manufactured food"],
+      "correct_answer": "strengthening the stem"
+    },
+    {
+      "question": "Amoeba moves by means of:",
+      "options": ["Cilia", "Flagella", "Pseudopodia", "Swimmerets"],
+      "correct_answer": "Pseudopodia"
+    },
+    {
+      "question": "External ears of mammals consist of:",
+      "options": ["pinna and tympanum", "pinna only", "auditory meatus only", "auditory meatus and pinna"],
+      "correct_answer": "pinna and tympanum"
+    },
+    {
+      "question": "Which of these is not characteristic of wind-pollinated flowers?",
+      "options": ["Smaller quantities of sticky pollen", "Feathery styles", "Small inconspicuous flowers", "Large anthers loosely attached"],
+      "correct_answer": "Smaller quantities of sticky pollen"
+    },
+    {
+      "question": "Which part of the mammalian body is associated with urine production?",
+      "options": ["Malpighian capsule", "Urinary bladder", "Ureter", "Urethra"],
+      "correct_answer": "Malpighian capsule"
+    },
+    {
+      "question": "When an operculate fish breathes, water passes in through the ____ and out through the ____:",
+      "options": ["mouth → operculum", "mouth → nostrils", "operculum → mouth", "nostrils → operculum"],
+      "correct_answer": "mouth → operculum"
+    },
+    {
+      "question": "Which of the following statements about mammalian circulatory system is NOT true?",
+      "options": ["Blood in pulmonary artery richer in O₂ than pulmonary vein", "Hepatic portal vein richest in food", "Blood flow controlled by valves in veins", "Arteries thicker than veins"],
+      "correct_answer": "Blood in pulmonary artery richer in O₂ than pulmonary vein"
+    },
+    {
+      "question": "The building block of an organism is:",
+      "options": ["Nitrogen", "Carbon", "Water", "Sulphur"],
+      "correct_answer": "Carbon"
+    },
+    {
+      "question": "Which organelle forms cilia and flagella?",
+      "options": ["ribosome", "lysosome", "centriole", "plastid"],
+      "correct_answer": "centriole"
+    },
+    {
+      "question": "The process by which plants lose water is:",
+      "options": ["transpiration", "guttation", "translocation", "evaporation"],
+      "correct_answer": "transpiration"
+    },
+    {
+      "question": "In glycolysis, glucose breaks down into:",
+      "options": ["Acetyl-coenzyme + ATP", "Phosphorylated glucose", "pyruvic acid + ATP", "Amino acid"],
+      "correct_answer": "pyruvic acid + ATP"
+    },
+    {
+      "question": "Which is evidence of evolution?",
+      "options": ["Embryonic similarities", "Fossils", "Homologous structures", "All of the above"],
+      "correct_answer": "All of the above"
+    },
+    {
+      "question": "Microorganism acting as a disease vector example:",
+      "options": ["Fungi decomposing plant material", "Mosquito transmitting malaria", "Bacteria causing food poisoning", "Algae producing oxygen"],
+      "correct_answer": "Mosquito transmitting malaria"
+    },
+    {
+      "question": "Which system controls the body's response to stimuli?",
+      "options": ["Digestive system", "Circulatory system", "Nervous system", "Respiratory system"],
+      "correct_answer": "Nervous system"
+    },
+    {
+      "question": "What blood type is called the universal donor?",
+      "options": ["A", "B", "O negative", "AB positive"],
+      "correct_answer": "O negative"
+    },
+    {
+      "question": "What is the role of ribosomes in a cell?",
+      "options": ["Make lipids", "Make proteins", "Store energy", "Digest materials"],
+      "correct_answer": "Make proteins"
+    },
+    {
+      "question": "Which enzyme breaks down starch into sugar in the mouth?",
+      "options": ["Lipase", "Amylase", "Protease", "Lactase"],
+      "correct_answer": "Amylase"
+    },
+    {
+      "question": "Which type of cell division reduces chromosome number by half?",
+      "options": ["Mitosis", "Meiosis", "Binary fission", "Endocytosis"],
+      "correct_answer": "Meiosis"
+    },
+    {
+      "question": "People suffering from myopia",
+      "options": [
+        "can see near objects clearly",
+        "can see far away objects clearly",
+        "cannot see any object clearly",
+        "are colour blind"
+      ],
+      "correct_answer": "can see near objects clearly"
+    },
+    {
+      "question": "Some of the features of an animal are scales, teeth, nares, and backbone. The animal is likely to be a?",
+      "options": ["toad", "bird", "lizard", "rat"],
+      "correct_answer": "lizard"
+    },
+    {
+      "question": "Choose the sequence which represents the correct order of organisms in a food chain",
+      "options": [
+        "Grass, snake, toad, grasshopper, hawk",
+        "Grass, grasshopper, toad, snake, hawk",
+        "Grass, grasshopper, snake, toad, hawk",
+        "Grass, snake, grasshopper, toad, hawk"
+      ],
+      "correct_answer": "Grass, grasshopper, toad, snake, hawk"
+    },
+    {
+      "question": "Flatworms and roundworms are said to be invertebrates because?",
+      "options": [
+        "they are small animals",
+        "they can live inside vertebrates",
+        "some of them are unicellular",
+        "they have no backbones"
+      ],
+      "correct_answer": "they have no backbones"
+    },
+    {
+      "question": "Water fleas, wood lice and barnacles belong to which group?",
+      "options": ["arachnida", "crustacea", "insecta", "chilopoda"],
+      "correct_answer": "crustacea"
+    },
+    {
+      "question": "Which of the following organisms does not exist as a single free living cell?",
+      "options": ["Paramecium", "Mold", "Amoeba", "Chlamydomonas"],
+      "correct_answer": "Mold"
+    },
+    {
+      "question": "Which of the following is a courtship behaviour in animals?",
+      "options": ["fighting", "display", "hibernation", "feeding"],
+      "correct_answer": "display"
+    },
+    {
+      "question": "In blood transfusion, a patient with group AB receives",
+      "options": [
+        "Group A, B, AB",
+        "Group O, A, B",
+        "Group O, B, AB",
+        "Group O, A, B, AB"
+      ],
+      "correct_answer": "Group O, A, B, AB"
+    },
+    {
+      "question": "A trait that is always expressed during crossing of hereditary characteristics is",
+      "options": ["recessive trait", "dominant trait", "homozygous trait", "heterozygous trait"],
+      "correct_answer": "dominant trait"
+    },
+    {
+      "question": "Blood group AB is considered as universal recipient because they can receive blood from groups",
+      "options": [
+        "A and O",
+        "B and O",
+        "AB and O",
+        "A, B, AB and O"
+      ],
+      "correct_answer": "A, B, AB and O"
+    },
+    {
+      "question": "An example of organism that exhibits counter-shading to escape from its predator is",
+      "options": ["grasshopper", "toad", "fish", "chameleon"],
+      "correct_answer": "fish"
+    },
+    {
+      "question": "The hormone which regulates the amount of glucose in the blood is called?",
+      "options": ["Adrenalin", "Auxin", "Insulin", "Thyroxine"],
+      "correct_answer": "Insulin"
+    },
+    {
+      "question": "Deamination occurs in the?",
+      "options": ["Kidney", "Pancreas", "Spleen", "Liver"],
+      "correct_answer": "Liver"
+    },
+    {
+      "question": "Epiphytes growing on the branches of trees provide an example of the relationship known as?",
+      "options": ["parasitism", "commensalism", "saprophytism", "holophytism"],
+      "correct_answer": "commensalism"
+    },
+    {
+      "question": "The fungi are distinct group of eukaryote mainly because they have",
+      "options": [
+        "spores",
+        "no chlorophyll",
+        "many fruiting bodies",
+        "asexual and sexual reproduction"
+      ],
+      "correct_answer": "no chlorophyll"
+    }
+  ]
+}
+
+

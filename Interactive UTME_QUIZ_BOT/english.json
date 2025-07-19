@@ -1,0 +1,245 @@
+{
+  "questions": [
+    {
+      "question": "Choose the word with the same vowel sound as in 'meet'.",
+      "options": ["meat", "met", "mate", "moat"],
+      "correct_answer": "meat"
+    },
+    {
+      "question": "Choose the word with the same vowel sound as in 'not'.",
+      "options": ["knot", "note", "nut", "nought"],
+      "correct_answer": "knot"
+    },
+    {
+      "question": "Choose the word with the same vowel sound as in 'put'.",
+      "options": ["putt", "pot", "putty", "pout"],
+      "correct_answer": "putt"
+    },
+    {
+      "question": "Which next word rhymes with 'cat'?",
+      "options": ["cut", "cot", "bat", "bet"],
+      "correct_answer": "bat"
+    },
+    {
+      "question": "Which next word rhymes with 'go'? ",
+      "options": ["low", "law", "lug", "lie"],
+      "correct_answer": "low"
+    },
+    {
+      "question": "Which starts with the same consonant sound as in 'phone'?",
+      "options": ["photo", "fun", "bone", "phonebook"],
+      "correct_answer": "photo"
+    },
+    {
+      "question": "Which starts with the same consonant sound as in 'ship'?",
+      "options": ["show", "sit", "sheep", "shape"],
+      "correct_answer": "sheep"
+    },
+    {
+      "question": "Which word has stress on the second syllable?",
+      "options": ["ability", "banana", "teacher", "running"],
+      "correct_answer": "ability"
+    },
+    {
+      "question": "Which word has stress on the first syllable?",
+      "options": ["export (noun)", "export (verb)", "include", "arrive"],
+      "correct_answer": "export (noun)"
+    },
+    {
+      "question": "Choose the word with stress on the third syllable:",
+      "options": ["responsible", "international", "information", "abominable"],
+      "correct_answer": "information"
+    },
+    {
+      "question": "Which has the same vowel sound as in 'heard'?",
+      "options": ["bird", "bard", "bed", "board"],
+      "correct_answer": "bird"
+    },
+    {
+      "question": "Which word has the same consonant sound as final 'k' in 'walk'?",
+      "options": ["back", "bake", "pack", "cake"],
+      "correct_answer": "back"
+    },
+    {
+      "question": "Which word rhymes with 'light'?",
+      "options": ["lie", "lit", "lot", "load"],
+      "correct_answer": "lie"
+    },
+    {
+      "question": "Which word rhymes with 'dance'?",
+      "options": ["dense", "dance", "dunce", "dents"],
+      "correct_answer": "dance"
+    },
+    {
+      "question": "Which word shares the final consonant sound in 'books'?",
+      "options": ["looks", "lock", "back", "lip"],
+      "correct_answer": "looks"
+    },
+    {
+      "question": "In the match against the uplanders team, the sub mariners turned out to be the dark horse",
+      "options": ["played most brilliantly", "played below their usual form", "won unexpectedly", "lost as expected"],
+      "correct_answer": "won unexpectedly"
+    },
+    {
+      "question": "Only the small fry gets punished for such social misdemeanours.",
+      "options": ["small boys", "unimportant people", "frightened people", "frivolous people"],
+      "correct_answer": "unimportant people"
+    },
+    {
+      "question": "He spoke with his heart in his mouth",
+      "options": ["courageously", "with such unusual cowardice", "with a lot of confusion in his speech", "with fright and agitation"],
+      "correct_answer": "with fright and agitation"
+    },
+    {
+      "question": "The leader in today's issue of our popular newspaper focuses on inflation",
+      "options": ["president", "headline", "editorial", "columnist"],
+      "correct_answer": "editorial"
+    },
+    {
+      "question": "From the ways my friend talks, you can see he is such a bore",
+      "options": ["rude", "brilliant", "uninteresting", "overbearing"],
+      "correct_answer": "uninteresting"
+    },
+    {
+      "question": "Choose the word that has the same rhyme scheme as 'battle'",
+      "options": ["raffle", "latter", "bitter", "kettle"],
+      "correct_answer": "latter"
+    },
+    {
+      "question": "I bought my WIFE a red dress.",
+      "options": ["Did I buy my husband a red dress?", "Did mummy play tennis?", "Did he buy my wife a red dress?", "Did I buy my wife a black dress?"],
+      "correct_answer": "Did I buy my wife a black dress?"
+    },
+    {
+      "question": "Choose the word that has the same consonant sound as in 'wash'.",
+      "options": ["treasure", "occasion", "nation", "equation"],
+      "correct_answer": "nation"
+    },
+    {
+      "question": "What was the common ritual at the morning assembly at Stardom on Tuesdays and Thursdays?",
+      "options": ["Christian and Muslim Prayers", "Words of Exaltation", "The second stanza of the national anthem", "The principal’s address"],
+      "correct_answer": "The second stanza of the national anthem"
+    },
+    {
+      "question": "How much was the boarding house fee per session at Stardom before it was reduced?",
+      "options": ["one hundred and sixty three thousand naira", "two hundred and fifty thousand naira", "one hundred and sixty thousand naira", "ninety three thousand naira"],
+      "correct_answer": "one hundred and sixty thousand naira"
+    },
+    {
+      "question": "Who instructed the Chemistry teacher to conclude the assembly after Mr Bepo burst into tears?",
+      "options": ["The principal", "The Managing Director", "The Vice Principal", "The school nurse"],
+      "correct_answer": "The Vice Principal"
+    },
+    {
+      "question": "Why did the Vice Principal contact the MD after Mr Bepo’s crying incident at the assembly?",
+      "options": ["To arrange an emergency meeting", "Because parents were calling with concerns", "To announce the principal’s retirement", "To discuss boarding fee reductions"],
+      "correct_answer": "Because parents were calling with concerns"
+    },
+    {
+      "question": "The principal was nicknamed 'The Lekki Headmaster' because...",
+      "options": ["He lived in Lekki", "He humorously imitated characters", "He introduced a new curriculum", "He founded Stardom Kiddies School"],
+      "correct_answer": "He humorously imitated characters"
+    },
+    {
+      "question": "Choose the best option to fill the gap: 'If I were the Head ..., I ____ make oral English compulsory.'",
+      "options": ["would", "could", "should", "might"],
+      "correct_answer": "would"
+    },
+    {
+      "question": "Must you always ____ lies? Why don't you ____ the truth for once?",
+      "options": ["speak", "say", "talk", "tell"],
+      "correct_answer": "tell"
+    },
+    {
+      "question": "Choose the correct: 'You should make an ____ to improve the situation.'",
+      "options": ["effect", "efficiency", "effectiveness", "effort"],
+      "correct_answer": "effort"
+    },
+    {
+      "question": "Choose the option that has the same vowel sound as in 'boat'.",
+      "options": ["board", "bought", "go", "glory"],
+      "correct_answer": "go"
+    },
+    {
+      "question": "Choose the option that has the same consonant sound as in 'caliph'.",
+      "options": ["presently", "perhaps", "powerful", "opponent"],
+      "correct_answer": "perhaps"
+    },
+    {
+      "question": "Identify the word with the stress on the second syllable.",
+      "options": ["reproduce", "always", "result", "understand"],
+      "correct_answer": "reproduce"
+    },
+    {
+      "question": "Identify the word with the stress on the first syllable.",
+      "options": ["resist", "salon", "confirm", "intact"],
+      "correct_answer": "intact"
+    },
+    {
+      "question": "Identify the correct stress: 'competent' or 'misread'?",
+      "options": ["competent", "misread", "resign", "compel"],
+      "correct_answer": "competent"
+    },
+    {
+      "question": "Choose the word that best completes the sentence: 'He has a very _____ personality—everyone likes him instantly.'",
+      "options": ["gruff", "amiable", "stern", "aloof"],
+      "correct_answer": "amiable"
+    },
+    {
+      "question": "Which of these is the correct passive form: 'They will complete the assignment tomorrow.'",
+      "options": ["The assignment is completed tomorrow.", "The assignment will be completed tomorrow.", "Tomorrow, the assignment was completed.", "The assignment will have completed tomorrow."],
+      "correct_answer": "The assignment will be completed tomorrow."
+    },
+    {
+      "question": "What is the antonym of 'obscure'?",
+      "options": ["vague", "apparent", "hidden", "cryptic"],
+      "correct_answer": "apparent"
+    },
+    {
+      "question": "Identify the correctly punctuated sentence.",
+      "options": ["Its time to eat Grandma.", "Its time to eat, Grandma.", "It's time to eat Grandma.", "Its time to eat Grandma!"],
+      "correct_answer": "It's time to eat Grandma."
+    },
+    {
+      "question": "Which idiom means 'to unexpectedly become successful'?",
+      "options": ["break a leg", "hit the books", "hit the jackpot", "jump the gun"],
+      "correct_answer": "hit the jackpot"
+    },
+    {
+      "question": "Choose the correct comparative form: 'She is _____ than her sister.'",
+      "options": ["more tall", "taller", "tallest", "most tall"],
+      "correct_answer": "taller"
+    },
+    {
+      "question": "Which sentence uses the subjunctive mood correctly?",
+      "options": [
+        "If I was you, I’d apologize.",
+        "If I were you, I’d apologize.",
+        "If he was here, he would know.",
+        "If she was rich, she will travel."
+      ],
+      "correct_answer": "If I were you, I’d apologize."
+    },
+    {
+      "question": "Select the word that best replaces the underlined portion: 'The manager *dismissed* the idea immediately.'",
+      "options": ["accepted", "rejected", "forwarded", "encouraged"],
+      "correct_answer": "rejected"
+    },
+    {
+      "question": "In formal writing, avoid using _____ expressions like 'a lot of'.",
+      "options": ["colloquial", "archaic", "technical", "literary"],
+      "correct_answer": "colloquial"
+    },
+    {
+      "question": "Which sentence shows correct subject–verb agreement?",
+      "options": [
+        "The group of students are ready.",
+        "The group of students is ready.",
+        "The students is ready.",
+        "The groups of student is ready."
+      ],
+      "correct_answer": "The group of students is ready."
+    }
+  ]
+}
+

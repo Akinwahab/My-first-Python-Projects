@@ -1,0 +1,164 @@
+{
+  "questions": [
+    {
+      "question": "When sodium chloride and metallic sodium are each dissolved in water",
+      "options": [
+        "both processes are exothermic",
+        "both processes are endothermic",
+        "the dissolution of metallic sodium is endothermic",
+        "the dissolution of metallic sodium is exothermic"
+      ],
+      "correct_answer": "the dissolution of metallic sodium is exothermic"
+    },
+    {
+      "question": "Which of the following statements is NOT correct?",
+      "options": [
+        "The average kinetic energy of a gas is directly proportional to its temperature",
+        "At constant temperature, the volume of a gas increases as the pressure increases",
+        "The pressure of a gas is directly proportional to its density",
+        "The temperature of a gas is directly proportional to its volume"
+      ],
+      "correct_answer": "The temperature of a gas is directly proportional to its volume"
+    },
+    {
+      "question": "Zinc Oxide is a:",
+      "options": ["Basic oxide", "Acidic oxide", "Amphoteric oxide", "Neutral oxide", "Reactive oxide"],
+      "correct_answer": "Amphoteric oxide"
+    },
+    {
+      "question": "Which of the following elements will exhibit the most electronegative character?",
+      "options": ["Aluminium", "Silicon", "Phosphorous", "Sulphur"],
+      "correct_answer": "Sulphur"
+    },
+    {
+      "question": "Acid hydrolysis of nitriles yields:",
+      "options": ["Alkanes", "Aldehydes", "Carboxylic acids", "Alcohols"],
+      "correct_answer": "Carboxylic acids"
+    },
+    {
+      "question": "How many isomers of C₄H₉OH are tertiary alkanols?",
+      "options": ["1", "2", "3", "4"],
+      "correct_answer": "2"
+    },
+    {
+      "question": "The characteristic crystalline shape of solid water is due to:",
+      "options": ["Covalent bonds", "Hydrogen bonds", "Ionic bonds", "Metallic bonds"],
+      "correct_answer": "Hydrogen bonds"
+    },
+    {
+      "question": "The chemical formula for laughing gas is:",
+      "options": ["NO", "NO₂", "N₂O", "N₂O₅"],
+      "correct_answer": "N₂O"
+    },
+    {
+      "question": "Which pollutant contributes to ozone layer depletion?",
+      "options": ["CF", "CS", "CCl", "CFC"],
+      "correct_answer": "CFC"
+    },
+    {
+      "question": "What is the functional group in an alkanal?",
+      "options": ["–OH", "–CHO", "–CO–", "–COO–"],
+      "correct_answer": "–CHO"
+    },
+    {
+      "question": "The process when a hydrated salt loses its water on exposure is called:",
+      "options": ["Efflorescence", "Deliquescence", "Hygroscopy", "Hydrolysis"],
+      "correct_answer": "Efflorescence"
+    },
+    {
+      "question": "Which gas law forms part of the general ideal gas equation?",
+      "options": ["Boyle’s", "Charles’s", "Graham’s", "Boyle’s and Charles’s"],
+      "correct_answer": "Boyle’s and Charles’s"
+    },
+     {
+      "question": "Temporary hardness of water is mainly due to:",
+      "options": ["Calcium sulphate", "Magnesium chloride", "Calcium bicarbonate", "Magnesium sulphate"],
+      "correct_answer": "Calcium bicarbonate"
+    },
+    {
+      "question": "Which factor does NOT affect reaction rate?",
+      "options": ["Colour", "Concentration", "Surface area", "Presence of catalyst"],
+      "correct_answer": "Colour"
+    },
+     {
+      "question": "Gas molecules are perfectly elastic because they:",
+      "options": ["Collide without energy loss", "Move in straight lines", "Have no volume", "Are very energetic"],
+      "correct_answer": "Collide without energy loss"
+    },
+    {
+      "question": "The repeating unit in natural rubber is:",
+      "options": ["Alkyne", "Isoprene", "n‑propene", "Neoprene"],
+      "correct_answer": "Isoprene"
+    },
+    {
+      "question": "Raising temperature favors the position of equilibrium in:",
+      "options": ["Endothermic reactions", "Exothermic", "Zero heat change", "High pressure systems"],
+      "correct_answer": "Endothermic reactions"
+    },
+    {
+      "question": "In the reaction: 2Al³⁺ + 3e⁻ → 2Al, what is happening?",
+      "options": ["Oxidation", "Reduction", "Ionization", "Recombination"],
+      "correct_answer": "Reduction"
+    },
+    {
+      "question": "A form of carbon for adsorption of gases is:",
+      "options": ["Wood charcoal", "Animal charcoal", "Carbon fibres", "Carbon black"],
+      "correct_answer": "Animal charcoal"
+    },
+    {
+      "question": "Potassium vapour burns with a flame of which color?",
+      "options": ["Blue", "Brick‑red", "Violet", "Golden‑yellow"],
+      "correct_answer": "Golden‑yellow"
+    },
+    {
+      "question": "Haematite is an ore of which metal?",
+      "options": ["Zinc", "Lead", "Iron", "Copper"],
+      "correct_answer": "Iron"
+    },
+     {
+      "question": "Metalloids are also referred to as:",
+      "options": ["Semi‑metals", "Metals", "Colloids", "Non‑metals"],
+      "correct_answer": "Semi‑metals"
+    },
+    {
+      "question": "Which property is used to separate oxygen and nitrogen industrially?",
+      "options": ["Rate of diffusion", "Density", "Boiling point", "Solubility"],
+      "correct_answer": "Boiling point"
+    },
+    {
+      "question": "Ripening of fruits is often induced by which gas?",
+      "options": ["Ethene", "Propane", "Methane", "Butane"],
+      "correct_answer": "Ethene"
+    },
+    {
+      "question": "Which is an example of a chemical change?",
+      "options": ["Dissolving salt", "Rusting iron", "Melting ice", "Distillation"],
+      "correct_answer": "Rusting iron"
+    },
+     {
+      "question": "According to Charles’s law, volume becomes zero at:",
+      "options": ["0 °C", "-100 °C", "-273 °C", "-373 °C"],
+      "correct_answer": "-273 °C"
+    },
+    {
+      "question": "Which electrolyte mixture conducts electricity?",
+      "options": ["Alcohol", "Sodium acetate solution", "Solid KOH", "Mercury"],
+      "correct_answer": "Sodium acetate solution"
+    },
+    {
+      "question": "Which has the lowest vapor density?",
+      "options": ["Ethanoic acid", "Propanol", "Dichloromethane", "Ethanal"],
+      "correct_answer": "Ethanal"
+    },
+    {
+      "question": "Which element is most abundant in Earth's crust?",
+      "options": ["Nitrogen", "Hydrogen", "Oxygen", "Fluorine"],
+      "correct_answer": "Oxygen"
+    },
+    {
+      "question": "Which is a buffer solution example?",
+      "options": ["NaCl + HCl", "CH₃COOH + CH₃COONa", "H₂O + CO₂", "HCl + NaOH"],
+      "correct_answer": "CH₃COOH + CH₃COONa"
+    }
+     ]
+}

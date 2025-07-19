@@ -1,0 +1,209 @@
+{
+    "questions": [
+        {
+            "question": "What is the SI unit of force?",
+            "options": ["Newton", "Joule", "Watt", "Pascal"],
+            "correct_answer": "Newton",
+        },
+        {
+            "question": "Which law states that current through a conductor is directly proportional to voltage?",
+            "options": [
+                "Kepler’s Law",
+                "Ohm’s Law",
+                "Faraday’s Law",
+                "Newton’s First Law",
+            ],
+            "correct_answer": "Ohm’s Law",
+        },
+        {
+            "question": "What type of lens is thicker at the edges than at the center?",
+            "options": ["Convex", "Concave", "Plano-convex", "Meniscus"],
+            "correct_answer": "Concave",
+        },
+        {
+            "question": "Which wave property is responsible for color in light?",
+            "options": ["Amplitude", "Frequency", "Speed", "Polarization"],
+            "correct_answer": "Frequency",
+        },
+        {
+            "question": "What is the acceleration due to gravity on Earth (approx)?",
+            "options": ["9.8 m/s²", "9.8 km/s²", "8.9 m/s²", "10 m/s²"],
+            "correct_answer": "9.8 m/s²",
+        },
+        {
+            "question": "Who formulated the three laws of motion?",
+            "options": [
+                "Galileo Galilei",
+                "Albert Einstein",
+                "Isaac Newton",
+                "James Watt",
+            ],
+            "correct_answer": "Isaac Newton",
+        },
+        {
+            "question": "What is the unit of electrical resistance?",
+            "options": ["Ohm", "Farad", "Henry", "Volt"],
+            "correct_answer": "Ohm",
+        },
+        {
+            "question": "In which medium does sound travel fastest?",
+            "options": ["Air", "Vacuum", "Water", "Steel"],
+            "correct_answer": "Steel",
+        },
+        {
+            "question": "What is the frequency of a wave that repeats 5 times in 2 seconds?",
+            "options": ["0.4 Hz", "2.5 Hz", "5 Hz", "10 Hz"],
+            "correct_answer": "2.5 Hz",
+        },
+        {
+            "question": "What quantity is measured in joules?",
+            "options": ["Energy", "Power", "Force", "Current"],
+            "correct_answer": "Energy",
+        },
+        {
+            "question": "Which is a scalar quantity?",
+            "options": ["Velocity", "Acceleration", "Speed", "Force"],
+            "correct_answer": "Speed",
+        },
+        {
+            "question": "Which of these is a non-contact force?",
+            "options": ["Friction", "Tension", "Magnetic", "Normal"],
+            "correct_answer": "Magnetic",
+        },
+        {
+            "question": "What is the primary source of energy for the Sun?",
+            "options": [
+                "Chemical reactions",
+                "Nuclear fusion",
+                "Nuclear fission",
+                "Gravitational collapse",
+            ],
+            "correct_answer": "Nuclear fusion",
+        },
+        {
+            "question": "The inner diameter of a test tube can be measured accurately using a?",
+            "options": [
+                "micrometer screw gauge",
+                "pair of dividers",
+                "metre rule",
+                "pair of vernier calipers",
+            ],
+            "correct_answer": "pair of vernier calipers",
+        },
+        {
+            "question": "Two bodies have masses in the ratio 3:1 and accelerations 2:9. The forces on them are in ratio:",
+            "options": ["1:4", "2:1", "2:3", "2:5"],
+            "correct_answer": "2:1",
+        },
+        {
+            "question": "Particles of mass 10⁻² kg on a fan blade rotating at 100 rad/s, radius 0.2 m, have centripetal force:",
+            "options": ["2 N", "20 N", "200 N", "400 N"],
+            "correct_answer": "20 N",
+        },
+        {
+            "question": "A lead bullet (0.05 kg) fired at 200 m/s into 0.95 kg block – final KE after impact is:",
+            "options": ["50 J", "100 J", "150 J", "200 J"],
+            "correct_answer": "100 J",
+        },
+        {
+            "question": "A 0.1 kg ball thrown up at 10 m/s from 10 m high – total energy before ground impact is:",
+            "options": ["5 J", "10 J", "15 J", "20 J"],
+            "correct_answer": "20 J",
+        },
+        {
+            "question": "Which affects velocity of sound: temperature, air density, pressure, pitch?",
+            "options": ["I & II only", "II & IV only", "I, II & IV", "I, II, III & IV"],
+            "correct_answer": "I, II & IV",
+        },
+        {
+            "question": "Characteristics of stationary waves include:",
+            "options": [
+                "formed by identical opposite waves",
+                "only transverse",
+                "nodes spaced λ apart",
+                "antinode is minimal displacement",
+            ],
+            "correct_answer": "formed by identical opposite waves",
+        },
+        {
+            "question": "To get enlarged erect image with concave mirror, object placed:",
+            "options": [
+                "at focus",
+                "beyond centre",
+                "between focus & centre",
+                "between focus & pole",
+            ],
+            "correct_answer": "between focus & centre",
+        },
+        {
+            "question": "Traveling wave property propagated is:",
+            "options": ["frequency", "amplitude", "energy", "wavelength"],
+            "correct_answer": "energy",
+        },
+        {
+            "question": "Eye defect corrected by cylindrical lens:",
+            "options": ["myopia", "astigmatism", "presbyopia", "chromatic aberration"],
+            "correct_answer": "astigmatism",
+        },
+        {
+            "question": "Machine VR=4, effort=800 N, load=1600 N. Efficiency is:",
+            "options": ["60%", "50%", "40%", "2%"],
+            "correct_answer": "50%",
+        },
+        {
+            "question": "Car mass 1500 kg on 50 m radius at 40 m/s: centripetal force:",
+            "options": ["4.8×10⁴ N", "4.8×10³ N", "1.2×10³ N", "1.2×10² N"],
+            "correct_answer": "4.8×10⁴ N",
+        },
+        {
+            "question": "Two spheres 5 kg & 10 kg 0.3 m apart: gravitational force? (G=6.67×10⁻¹¹):",
+            "options": ["3.50×10⁻¹⁰ N", "3.71×10⁻⁸ N", "3.57×10⁻² N", "4.00×10² N"],
+            "correct_answer": "3.50×10⁻¹⁰ N",
+        },
+        {
+            "question": "Which derived unit?",
+            "options": ["Kilogram", "Metre", "Newton", "Second"],
+            "correct_answer": "Newton",
+        },
+        {
+            "question": "Bar magnet divided into two pieces:",
+            "options": [
+                "two magnets",
+                "field gets stronger",
+                "electric field forms",
+                "magnet demagnetises",
+            ],
+            "correct_answer": "two magnets",
+        },
+        {
+            "question": "Wave y=5 mm sin[1 cm⁻¹ x − 60 s⁻¹ t]: wave number is:",
+            "options": ["0.1 cm⁻¹", "10 cm⁻¹", "1 cm⁻¹", "2 cm⁻¹"],
+            "correct_answer": "1 cm⁻¹",
+        },
+        {
+            "question": "Object 40 cm, distance 30 cm from pinhole camera, image height 20 cm – image distance:",
+            "options": ["15 cm", "70 cm", "40 cm", "40 cm"],
+            "correct_answer": "15 cm",
+        },
+        {
+            "question": "Solenoid near bar magnet & galvanometer shows no deflection when:",
+            "options": [
+                "magnet moves towards",
+                "no relative motion",
+                "magnet moves away",
+                "solenoid moved away",
+            ],
+            "correct_answer": "no relative motion",
+        },
+        {
+            "question": "Salt diffusing in cold water =",
+            "options": ["convection", "osmosis", "capillarity", "diffusion"],
+            "correct_answer": "diffusion",
+        },
+        {
+            "question": "Centripetal force formula is:",
+            "options": ["mv²/r", "mr²/x", "mr/v", "mv/r²"],
+            "correct_answer": "mv²/r",
+        },
+    ]
+}
