@@ -1,0 +1,7 @@
+1.Drawing Robot — Program turtle to draw shapes based on user input (e.g., “draw star”, “draw polygon”). 
+# add API probably to expand reach 
+2.Pattern Generator
+3. Better Etch-a-Sketch
+4.Maze Generator & Solver game 
+5.Mini City Builder
+

@@ -1,0 +1,39 @@
+1. Save/Load Drawing
+   Save your current drawing to a file (e.g., using turtle.getscreen().getcanvas() and exporting to postscript or PNG).
+
+Load and redraw saved drawings.
+
+2. Undo/Redo
+   Implement undo functionality — undo the last stroke or move.
+
+Bonus: redo the undone moves.
+
+3. Customizable Controls
+   Let users remap keys in the welcome screen or settings.
+
+4. Different Pen Styles
+   Add dashed, dotted, or patterned pen styles.
+
+5. Shapes Palette
+   Instead of keys, add a simple GUI panel or clickable buttons to choose shapes or colors.
+
+6. Animated Drawing
+   Add an “auto draw” mode where the turtle animates a preset shape or pattern.
+
+7. Save Screenshot
+   Save the drawing as an image file (PNG, GIF).
+
+8. Sound Effects
+   Play sounds on keypresses or events like clearing screen.
+
+9. Multiplayer Mode
+   Let two players control two turtles at once (split keys).
+
+10. Grid or Background Patterns
+    Add optional grids or background images to help with alignment.
+
+11. Color Palette Picker
+    Let users pick from a palette instead of just random colors.
+
+12. Eraser Tool
+    Change pen color to background color to "erase" parts of the drawing.
