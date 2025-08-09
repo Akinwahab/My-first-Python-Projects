@@ -62,7 +62,7 @@ All rights are reserved © 2025 Akinwahab.
 ## 🔗 Connect with Me:
 ### GitHub: [Akinwahab](https://github.com/Akinwahab)
 ### Youtube: [Akinwahab099](https://www.youtube.com/@Akinwahab099)
-### Email: [EMAIL](akinwahab099@gmail.com)
+### Email: [akinwahab099@gmail.com](akinwahab099@gmail.com)
 ### Portfolio: Coming Soon!
 
 ---
