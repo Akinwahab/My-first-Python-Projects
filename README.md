@@ -3,32 +3,34 @@
 Welcome to **My First Python Projects** – a collection of beginner to intermediate Python projects I've built as I learn and grow as a developer. 
 These projects cover a wide range of concepts, from basic input/output to logic-based games and interactive applications.
 
-Feel free to explore and learn from the code. I’ll be adding more creative and educational projects over time — including utility tools, bots, and interactive applications.
+Feel free to explore and learn from the code. I’ll be adding more creative and educational projects over time.
 
 ---
 
 ## 📁 Projects Included
 
-### 🎯 Hangman Game  
-A classic word guessing game where the player tries to figure out the secret word before running out of lives.
+ ### CLI Projects 
+ 1. Hangman Game
+ 2. Tic-Tac-toe
+ 3. Minesweeper game
+ 4. Quiz Bot
+ 5. Madlibs
+ 6. Soduko Solver
+and Alot more
 
-### 💣 Minesweeper  
-A text-based version of the classic Minesweeper game with improved UI, input validation, and a replay feature.
-
-### 🗯️ Mad Libs Generator  
-A fun word substitution game where the user provides random words that are inserted into a short story.
-
-### ❌⭕ Tic Tac Toe  
-Two-player Tic Tac Toe game implemented in the terminal, with clean structure and player input handling.
-
-### 🎰 Slot Machine  
-A console-based slot machine simulator that handles betting, balance, and calculates winnings.
+ ### Turtle Module Projects 
+ 1. Etch-Sketch
+ 2. A custom clock
+ 3. Pong Game
+ 4. Snake Game
+ 5. Turtle Crossing Game
+and Alot more
 
 ---
 
 ## 🔜 Upcoming Projects
 
-Watch out for more games, quiz applications 
+Watch out for more games, quiz applications, interactive interfaces, User applications 
 ...and more!
 
 ---
@@ -60,7 +62,7 @@ All rights are reserved © 2025 Akinwahab.
 ## 🔗 Connect with Me:
 ### GitHub: [Akinwahab](https://github.com/Akinwahab)
 ### Youtube: [Akinwahab099](https://www.youtube.com/@Akinwahab099)
-### Email: [EMAIL](akinwahab099@gmail.com)
+### Email: [akinwahab099@gmail.com](akinwahab099@gmail.com)
 ### Portfolio: Coming Soon!
 
 ---
