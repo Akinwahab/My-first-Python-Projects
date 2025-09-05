@@ -67,8 +67,7 @@ Watch out for more games, quiz applications, interactive interfaces, User applic
 ---
 
 ## ⚠️ License Notice:
-This repository is provided for educational and portfolio purposes only.
-Please do not copy, modify, reuse, or redistribute any part of this code without my explicit permission.
+This repository is provided for educational and portfolio purposes.
 All rights are reserved © 2025 Akinwahab.
 
 ---
