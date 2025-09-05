@@ -1,7 +1,6 @@
-Hey [NAME],
 
-Happy birthday! Have a wonderful time today and eat lots of cake!
+Hello [name],
+On this special day, I want to extend my warmest wishes to you.  
+May your year ahead be filled with success, good health, and happiness.  
 
-Lots of love,
-
-Angela
+Best regards,
