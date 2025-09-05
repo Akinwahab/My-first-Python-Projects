@@ -1,7 +1,7 @@
 # 🐍 My First Python Projects
 
-Welcome to **My First Python Projects** – a collection of beginner to intermediate Python projects I've built as I learn and grow as a developer. 
-These projects cover a wide range of concepts, from basic input/output to logic-based games and interactive applications.
+Welcome to **My First Python Projects** – a collection of beginner to intermediate Python projects I've built, and still building  as I learn and grow as a developer. 
+These projects cover a wide range of concepts, from basic input/output to logic-based games to interactive applications.
 
 Feel free to explore and learn from the code. I’ll be adding more creative and educational projects over time.
 
@@ -26,11 +26,25 @@ and Alot more
  5. Turtle Crossing Game
 and Alot more
 
+### Tkinter Applications
+1. Pomodoro App
+2. Password Manager App
+3. Flash Card App for language learning
+and alot more to come
+
+### SMTP and API works
+1. Iss Overhead notifier
+2. Quiz app with Trivia Api
+and alot more to come
+
+### Web Application 
+*** - Coming Soon ***
+
 ---
 
 ## 🔜 Upcoming Projects
 
-Watch out for more games, quiz applications, interactive interfaces, User applications 
+Watch out for more games, quiz applications, interactive interfaces, User applications, Web applications 
 ...and more!
 
 ---
@@ -62,7 +76,7 @@ All rights are reserved © 2025 Akinwahab.
 ## 🔗 Connect with Me:
 ### GitHub: [Akinwahab](https://github.com/Akinwahab)
 ### Youtube: [Akinwahab099](https://www.youtube.com/@Akinwahab099)
-### Email: [akinwahab099@gmail.com](akinwahab099@gmail.com)
+### Email: [akinwahab099@gmail.com](102009aki@gmail.com)
 ### Portfolio: Coming Soon!
 
 ---
