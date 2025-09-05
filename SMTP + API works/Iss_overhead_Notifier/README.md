@@ -1,4 +1,4 @@
-# Hi there 
+# Hi there. 
 It is said the ISS rotates the world more than 6 times daily 
 **We wanna actually see**
 And also spot in the sky maybe ... 
