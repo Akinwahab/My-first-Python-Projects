@@ -38,7 +38,7 @@ and alot more to come
 and alot more to come
 
 ### Web Application 
-*** - Coming Soon ***
+***- Coming Soon***
 
 ---
 
