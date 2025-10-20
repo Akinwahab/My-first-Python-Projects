@@ -139,7 +139,7 @@ def play(dimension_size=10, num_bombs=10):
 
         while len(board.dug) < board.dimension_size ** 2 - board.num_bombs:
             print(board)
-            user_input = input("📍 Enter command (e.g., d 3,4 to dig, f 3,4 to flag): ").strip().lower()
+            user_input = input("📍 Enter command (e.g., d 3,4 to dig, f 3,4 to flag, row before col): ").strip().lower()
 
             try:
                 match = re.match(r"([df])\s*(\d+),\s*(\d+)", user_input)
